@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "all": "^0.0.0",
+    "express": "^4.18.2",
+    "method-override": "^3.0.0",
+    "natural": "^6.1.4",
+    "sails-mysql": "^3.0.0",
+    "syndication": "^0.1.13",
+    "waterline": "^0.15.2"
+  }
+}
